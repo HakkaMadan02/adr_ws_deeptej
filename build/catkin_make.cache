@@ -1,0 +1,2 @@
+PX4-Autopilot:mavlink:mavros/libmavconn:mavros/mavros:mavros/mavros_extras:mavros/mavros_msgs:mavros/test_mavros
+-DCATKIN_DEVEL_PREFIX=/home/hakka/adr_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hakka/adr_ws/install -G Unix Makefiles
